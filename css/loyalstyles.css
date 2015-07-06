@@ -1,0 +1,233 @@
+
+
+body {
+	width: 100%;
+	max-width: 2000px;
+	background: url(../img/Flag_Background.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+
+
+h2 { 
+	text-align: center;
+	margin: 1em;
+	padding: 1em;
+	padding-bottom: 1.5em;
+
+	font-size: 2.75em;
+	text-shadow: .075em .03em white;
+
+
+	 }
+
+
+h1 {
+	 	text-align: center;
+
+ 		opacity: 0.65;
+	 	font-size: 5em;
+	 	color: blue;
+	 	text-shadow: .1em .065em black;
+
+	 	
+	 }
+
+h3 {
+	padding-left: .64em;
+	text-align: center;
+}
+
+h4 {
+	padding-left: .64em;
+}
+
+
+
+.printedblog {
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+p.centertext {
+	max-width: 1400px;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	}
+
+.services {
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+
+p {
+
+	margin: 0em;
+	margin-top: 1em;
+	background-color: rgba(255,255,255,1.0);
+	width: 35em;
+ 
+
+    font-size: 1.2em;
+    max-width: 100%;
+    border-radius: .25em;
+ 
+    text-align: center;
+
+}
+
+p.press_release01 {
+	margin-bottom: 1em;
+	padding: .313em;
+}
+
+p.press_release02 {
+	margin: 0em;
+	padding: .313em;
+
+}
+
+p.bloghead {
+	padding: 0em;
+	margin: 0em;
+	text-align: center;
+	width: 100%;
+	max-width: 15em;
+	
+	}
+	
+p.blogbody {
+	padding: 0em;
+	margin-bottom: 2em;
+	text-align: center;
+	width: 100%;
+	max-width: 35em;
+
+	}
+	
+p.blogdate {
+	font-size: 1em;
+	text-align: center;
+	padding: 0em;
+	margin: 0em;
+	width: 100%;
+	max-width: 15em;
+	}
+
+img {
+	/*border: .125em solid black;*/
+	/*outline: 1px solid black;*/
+	opacity: 1.0;
+	max-width: 100%;
+	height: auto;
+	border-radius: .4em;
+
+}
+
+
+a:link {
+	color: black;
+}
+
+fieldset {
+	font-size: 1.2;
+	width: 100%;
+	height: auto;
+	max-width: 100%;
+	margin-top: 3em;
+}
+
+.form-group {
+	margin-top: .6em;
+}
+
+
+
+
+input.form-control {
+	height: auto;
+	width: 100%;
+}
+
+button.submit {
+	border-radius: .3em;
+	color: black;
+	opacity: 1.0;
+	font-size: 2em;
+
+}
+
+
+p.email {
+	text-align: center;
+	width: 10em;
+	height: auto;
+	font-size: 2em;
+
+}
+
+
+
+p.emaildocs {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.emailbuttons {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+.sendbutton {
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 16.5px 33px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 17px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+   }
+.sendbutton:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.sendbutton:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+   p.services {
+   	text-align: center;
+   }
+
+
+
+
+
+
